@@ -169,12 +169,12 @@ text-decoration:none;
 
 /* Header description area */
 #desc {
-background:#505050 url(images/piraat.jpg) bottom left repeat-y; 
-clear:both; 
-color:#fffff0; 
-height:232px; 
-margin:5px 0 15px; 
-padding:0 0 5px 0;
+	background: #505050 url(images/piraat.jpg) bottom left repeat-y;
+	clear: both;
+	color: #fffff0;
+	height: 80px;
+	margin: 5px 0 15px;
+	padding: 0 0 5px 0;
 }
 
 #desc p {
